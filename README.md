@@ -1,6 +1,6 @@
 # RatingWeb: Websites Evaluation Using Opinion Mining
 
-## *This project is to fullfil the requirements of CMSE201 (Fundamentals of Software Engineering) course at EMU where we were asked to submit a PPM, SRS and Final Report for WebRating website that evaluates websites using opinion mining*. 
+## *This project is to fullfill the requirements of CMSE201 (Fundamentals of Software Engineering) course at EMU where we were asked to submit a PPM, SRS and Final Report for WebRating website that evaluates websites using opinion mining*. 
 
 
 This documentation provides a comprehensive overview of a project that aims to evaluate websites using opinion mining techniques. The project involves building a web crawler to collect data, preprocessing the data to remove noise and irrelevant information, and applying opinion mining algorithms to assign sentiment scores to each piece of text.

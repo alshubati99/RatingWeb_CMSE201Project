@@ -8,7 +8,7 @@ This documentation provides a comprehensive overview of a project that aims to e
 The documentation includes three key documents: a Project Plan/Proposal/Management (PPM), a Software Requirements Specification (SRS), and a Final Report. The PPM outlines the project's scope, objectives, budget, timeline, and resource allocation, while the SRS defines the software requirements, including the system architecture, user interfaces, data models, and performance requirements. The Final Report summarizes the entire project, including the project overview, scope, methodology, results, and conclusion, and provides insights into the project's success, challenges, and lessons learned.
 
 ### Project Team: 
-- [Seyit Inci.](https://github.com/seyitahmetinci/)
-- [Khawlah Alshubati.](https://github.com/alshubati99)
-- Sinem Imge. 
-- Abraham Henry.
+- [Software Engineer Seyit Inci.](https://github.com/seyitahmetinci/)
+- [Software Engineer Khawlah Alshubati.](https://github.com/alshubati99)
+- Software Engineer Sinem Imge. 
+- Software Engineer Abraham Henry.
